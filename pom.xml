@@ -3,7 +3,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.rammelkast.anticheatreloaded</groupId>
    <artifactId>AntiCheatReloaded</artifactId>
-   <version>1.9.5</version>
+   <version>alpha-2-b1</version>
    <name>AntiCheatReloaded</name>
    <url>https://www.spigotmc.org/resources/anticheatreloaded.23799/</url>
    <properties>
@@ -69,12 +69,6 @@
          <groupId>com.comphenix.protocol</groupId>
          <artifactId>ProtocolLib</artifactId>
          <version>4.6.0-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-      	<groupId>org.spigotmc</groupId>
-      	<artifactId>spigot</artifactId>
-      	<version>1.8.8-R0.1-SNAPSHOT</version>
-      	<scope>provided</scope>
       </dependency>
       <dependency>
       	<groupId>org.spigotmc</groupId>
